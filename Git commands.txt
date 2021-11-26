@@ -1,0 +1,5 @@
+The Git commands that I have used to update my
+repository in steps 5 and 6 are:
+
+git add . 
+git commit -m.
